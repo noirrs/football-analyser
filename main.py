@@ -11,7 +11,7 @@ from speed_and_distance_estimator import SpeedAndDistanceEstimator
 def main():
     video_frames = read_video('data/raw/test (3).mp4')
 
-    tracker = Tracker('models/best.pt')
+    tracker = Tracker('models/best.pt') # loading our trained YOLOv8 model
     tracks= tracker.get_object_tracks(video_frames, read_from_stub=True, stub_path='data/stubs/track_stubs.pkl')
     
     tracker.add_position_to_tracks(tracks) 
