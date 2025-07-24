@@ -162,7 +162,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- This project was built following the comprehensive tutorial: [AI Football Analysis System Tutorial](https://www.youtube.com/watch?v=neBZ6huolkg&t=11732s)
+- This project was built following the comprehensive tutorial: [AI Football Analysis System Tutorial](https://www.youtube.com/watch?v=neBZ6huolkg)
 - YOLOv8 by Ultralytics for object detection
 - OpenCV for computer vision utilities
 - Football detection dataset from Roboflow
