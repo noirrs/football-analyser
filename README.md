@@ -1,4 +1,4 @@
-# Football Analyzer
+# Football Analyser
 
 A comprehensive computer vision system for analyzing football matches using YOLO object detection and tracking algorithms. This project can track players, ball, and referees in football videos, estimate player speeds and distances, assign teams, and determine ball possession.
 
